@@ -25,7 +25,7 @@ sudo apt-get install libeigen3-dev libboost-filesystem-dev libboost-system-dev l
 For OSX with brew:
 
 ```bash
-brew install eigen3
+brew install eigen
 brew install boost
 ```
 
